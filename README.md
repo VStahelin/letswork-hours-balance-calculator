@@ -25,6 +25,7 @@ pip install beautifulsoup4
 ## Usage
 
 1. First, ensure that you have an HTML file containing the check-in and check-out information in the correct format.
+   1. You can download the HTML file from `https://app.letswork.com.br/timeline` by right-clicking on the page and selecting `Save As...`.
 2. Run the script, and it will parse the HTML file and calculate your work hours:
 
 ```bash
