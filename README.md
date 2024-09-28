@@ -59,7 +59,7 @@ The script generates an `output.json` file containing:
             "overtime": "19h46m",
             "last_month_overtime": "10:40:00",
             "negative_time": "01h00m",
-            "total_hour_balance": "30h26m",
+            "total_hour_balance": "29h26m",
             "this_month_hour_to_charge": "18h46m",
             "checks": [
                 {
